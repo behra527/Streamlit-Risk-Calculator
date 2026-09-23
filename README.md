@@ -1,4 +1,4 @@
-# RiskCare — Health Risk Calculator
+# RiskCare  Health Risk Calculator
 
 A Streamlit-based health risk assessment dashboard that demonstrates how patient parameters can be converted into a simple rule-based risk score.
 
